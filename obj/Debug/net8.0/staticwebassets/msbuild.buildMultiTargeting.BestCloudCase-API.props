@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BestCloudCase-API.props" />
+</Project>

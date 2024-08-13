@@ -1,0 +1,6 @@
+@BestCloudCase_API_HostAddress = http://localhost:5083
+
+GET {{BestCloudCase_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
