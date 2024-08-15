@@ -30,3 +30,4 @@ C:\Users\merta\source\repos\BestCloudCase-API\BestCloudCase-API\obj\Debug\net8.0
 C:\Users\merta\source\repos\BestCloudCase-API\BestCloudCase-API\obj\Debug\net8.0\BestCloudCase-API.pdb
 C:\Users\merta\source\repos\BestCloudCase-API\BestCloudCase-API\obj\Debug\net8.0\BestCloudCase-API.genruntimeconfig.cache
 C:\Users\merta\source\repos\BestCloudCase-API\BestCloudCase-API\obj\Debug\net8.0\ref\BestCloudCase-API.dll
+C:\Users\merta\source\repos\BestCloudCase-API\BestCloudCase-API\obj\Debug\net8.0\BestCloudCase-API.sourcelink.json

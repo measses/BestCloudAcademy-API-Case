@@ -14,11 +14,12 @@ namespace BestCloudCase_API.Controllers.Controllers
         }
 
         // GET /health
-        [HttpGet("health")]
+        [HttpGet("/health")]
         public IActionResult GetHealthStatus()
         {
             return Ok(new { status = "Healthy" });
         }
+
 
         // POST /
         [HttpPost("/")]
