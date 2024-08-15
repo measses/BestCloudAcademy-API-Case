@@ -9,6 +9,10 @@ Bu proje, C# ve .NET 8.0 kullanılarak geliştirilmiş basit bir API'yi kapsar. 
 - **GET /health**: API'nin sağlık durumunu döner.
 - **POST /**: Gönderilen veriyi geri döner.
 
+
+##Demo
+https://365c-37-130-122-164.ngrok-free.app/
+
 ## Docker Kurulumu
 1. **Docker İmajını Oluşturun**:
    ```bash
@@ -44,6 +48,7 @@ Bu proje, C# ve .NET 8.0 kullanılarak geliştirilmiş basit bir API'yi kapsar. 
    ```bash
    ngrok http 127.0.0.1:14400
    ```
+
 
 ## Repository İçeriği
 - **Dockerfile**: API'nin containerize edilmesi için yapılandırma dosyası.
